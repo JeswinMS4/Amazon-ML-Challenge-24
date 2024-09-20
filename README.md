@@ -14,7 +14,7 @@ The goal is to create a machine learning model that extracts entity values from 
 
 1. **Index**: A unique identifier (ID) for the data sample.
 2. **Image Link**: A public URL where the product image is available for download.  
-   Example: ![Sample Image](https://m.media-amazon.com/images/I/71XfHPR36-L.jpg)  
+   Example: [Sample Image](<https://m.media-amazon.com/images/I/71XfHPR36-L.jpg>)  
    To download images, use the `download_images` function from `src/utils.py`. See sample code in `src/test.ipynb`.
 3. **Group ID**: Category code of the product.
 4. **Entity Name**: Product entity name. For example: `item_weight`.
