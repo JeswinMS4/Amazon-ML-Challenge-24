@@ -56,7 +56,7 @@ We continuously tested and refined our methods to address challenges and improve
 | **Height**            | [test_height.ipynb](<https://colab.research.google.com/drive/1Hc1vO-L_PpurQ6r4K8cWcybGD6FuI60l>)                         |
 | **Width**             | [test_width.ipynb](<https://colab.research.google.com/drive/1Yl-R3Ws5Gite-Vj6oircxJImXjjqWNAK>)                           |
 | **Depth**             | [test_depth.ipynb](<https://colab.research.google.com/drive/1AImdOP0p6aE9RLMaWikO8PQaf0BF-ZwC?usp=sharing>)                           |
-| **Weight**            | [Another copy of ll_weight.ipynb](<https://colab.research.google.com/drive/12jHBYxOvE2uJgjJjPj5msBdR-xyYRZ-6?usp=sharing>)             |
+| **Weight**            | [test_weight.ipynb](<https://colab.research.google.com/drive/12jHBYxOvE2uJgjJjPj5msBdR-xyYRZ-6?usp=sharing>)             |
 | **Weight Recommendation** | [test_rec_weight.ipynb](<https://colab.research.google.com/drive/12jHBYxOvE2uJgjJjPj5msBdR-xyYRZ-6?usp=sharing>)             |
 | **Voltage**    | [test_voltage.ipynb](<https://colab.research.google.com/drive/1YnLwNDscWK0WYmicxtEjDoTW_PBzMlKQ?usp=sharing>)                 |
 | **Volume**            | [test_volume.ipynb](<https://colab.research.google.com/drive/1tz9RcX2VH4ABSs2D2w2eEvAIULd2Dj2O?usp=sharing>)                         |
