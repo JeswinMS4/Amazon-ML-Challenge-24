@@ -4,10 +4,9 @@ Our team, **ThatOneUnstoppable**, secured the **140th rank** in the Amazon ML Ch
 
 
 <div align="center">
-  <img src="Acheivement.png" alt="Team ThatOneUnstoppable" width="400" />
+  <img src="Acheivement.png" alt="Team ThatOneUnstoppable" width="500" />
 </div>
 
-![140](Acheivement.png)
 
 ## Problem Statement
 
