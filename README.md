@@ -1,6 +1,9 @@
 # Amazon ML Challenge 2024
 
 Our team, **ThatOneUnstoppable**, secured the **140th rank** in the Amazon ML Challenge 2024, demonstrating strong capabilities in machine learning and data-driven problem solving.
+
+
+
 ![140](Acheivement.png)
 
 ## Problem Statement
