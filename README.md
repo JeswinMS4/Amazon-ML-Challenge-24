@@ -26,7 +26,7 @@ The goal is to create a machine learning model that extracts entity values from 
 
 We chose **PaddleOCR** for text extraction due to its superior prediction accuracy and faster inference times compared to other OCR techniques. PaddleOCR is proficient in handling various languages and complex layouts. Its efficient processing of large volumes of images allowed us to promptly extract text from the dataset.
 
-For images where PaddleOCR misclassified or failed to capture the text, we used **openbmb/MiniCPM-V-2_6**, a large language model, to extract relevant units from the images. The LLM was only considered for incorrect OCR outputs to maintain efficient inference times.
+For images where PaddleOCR misclassified or failed to capture the text, we used **openbmb/MiniCPM-V-2_6**, a large language model, to extract relevant units from the images. The VLM was only considered for incorrect OCR outputs to maintain efficient inference times.
 
 ### 2. Refinement with Advanced Regex Techniques
 
